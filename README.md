@@ -1,4 +1,4 @@
-# GitBasics
+## GitBasics
 Git concept testing
 Lorem ipsum dolor sit amet consectetur adipiscing elit, aliquet quisque nisl magnis auctor pharetra posuere nisi, libero justo potenti dui luctus vivamus. Molestie dapibus magnis libero a hendrerit vestibulum mattis congue lacus ligula, sociosqu habitant interdum fringilla tempus est arcu gravida pharetra, ornare pellentesque laoreet nisl fermentum varius per vehicula eros. Lectus per dui class accumsan facilisis luctus porta congue pellentesque tempor, lacus aliquam pulvinar justo habitasse faucibus duis donec vehicula, penatibus augue velit nullam inceptos tempus cubilia conubia commodo.
 
