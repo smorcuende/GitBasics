@@ -1,5 +1,5 @@
 ## GitBasics
-Git concept testing
+Git concept testing with Netbeans IDE
 Lorem ipsum dolor sit amet consectetur adipiscing elit, aliquet quisque nisl magnis auctor pharetra posuere nisi, libero justo potenti dui luctus vivamus. Molestie dapibus magnis libero a hendrerit vestibulum mattis congue lacus ligula, sociosqu habitant interdum fringilla tempus est arcu gravida pharetra, ornare pellentesque laoreet nisl fermentum varius per vehicula eros. Lectus per dui class accumsan facilisis luctus porta congue pellentesque tempor, lacus aliquam pulvinar justo habitasse faucibus duis donec vehicula, penatibus augue velit nullam inceptos tempus cubilia conubia commodo.
 
 Nec nascetur turpis egestas eleifend porttitor tincidunt class ridiculus nibh, congue conubia magnis tellus urna non varius augue, id in justo pulvinar aptent inceptos quis mollis. Viverra maecenas magnis etiam suscipit posuere venenatis ornare luctus vitae, pharetra eros facilisis enim ad interdum habitant aenean, nec curabitur faucibus convallis lacus eget et congue. Cursus etiam ornare bibendum taciti tempor egestas sociis, nostra quisque curabitur eleifend pretium risus fames, laoreet imperdiet et faucibus inceptos magna.
